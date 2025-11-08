@@ -27,7 +27,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:5173", # Your local dev frontend
-        "https://profiler-frontend.vercel.app" # <-- ADD THIS LINE
+        "https://profiler-frontend-two.vercel.app" # <-- ADD THIS LINE
     ],
     allow_credentials=True,
     allow_methods=["*"],

@@ -3,7 +3,7 @@ import { Analysis, Category, Question, UserAnswer, TestResults, SubmitResponse }
 import { BrainIcon, SpeechBubbleIcon, PatternIcon, CubeIcon, CalculatorIcon, MagnifyingGlassIcon } from './components/icons.tsx';
 
 type Screen = 'selection' | 'test' | 'loading' | 'results';
-const API_BASE_URL = "http://127.0.0.1:8000";
+const API_BASE_URL = "https://profiler-backend-5plw.onrender.com";
 
 const shuffleArray = <T,>(array: T[]): T[] => [...array].sort(() => Math.random() - 0.5);
 

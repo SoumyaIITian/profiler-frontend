@@ -230,7 +230,7 @@ const LoadingScreen = () => (
     <div className="flex flex-col items-center justify-center h-screen p-4">
         <div className="text-center p-8 rounded-lg backdrop-blur-md bg-white/5 border border-white/10">
             <div className="w-12 h-12 border-4 border-primary border-t-transparent rounded-full animate-spin mx-auto"></div>
-            <p className="mt-4 text-lg text-text-secondary">Analyzing your performance... <br /> Our AI coach is building your profile.</p>
+            <p className="mt-4 text-lg text-text-secondary">Waiting</p>
         </div>
     </div>
 );

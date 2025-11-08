@@ -1,0 +1,1262 @@
+[
+  {
+    "id": 1,
+    "category": "Verbal Logic",
+    "questionText": "Which word is the odd one out: apple, banana, rose, strawberry?",
+    "options": ["apple", "banana", "rose", "strawberry"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 2,
+    "category": "Verbal Logic",
+    "questionText": "Pen is to writer as ___ is to baker.",
+    "options": ["flour", "oven", "bread", "apron"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 3,
+    "category": "Verbal Logic",
+    "questionText": "All snorps are quills. Some quills are blorps. Therefore, some snorps are definitely blorps.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 4,
+    "category": "Verbal Logic",
+    "questionText": "Choose the word that is most nearly opposite in meaning to 'ephemeral'.",
+    "options": ["fleeting", "eternal", "translucent", "weak"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 5,
+    "category": "Verbal Logic",
+    "questionText": "A is the father of B. B is the sister of C. C is the mother of D. How is A related to D?",
+    "options": ["Grandfather", "Uncle", "Father", "Brother-in-law"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 6,
+    "category": "Verbal Logic",
+    "questionText": "'Tepid' is closest in meaning to:",
+    "options": ["Hot", "Cold", "Lukewarm", "Boiling"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 7,
+    "category": "Verbal Logic",
+    "questionText": "Which word does not belong: swift, rapid, slow, hasty?",
+    "options": ["swift", "rapid", "slow", "hasty"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 8,
+    "category": "Verbal Logic",
+    "questionText": "Book is to Chapter as Building is to ___.",
+    "options": ["Room", "Bricks", "Roof", "Door"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 9,
+    "category": "Verbal Logic",
+    "questionText": "If all Floops are Zorgs, and no Zorgs are Blips, can a Floop be a Blip?",
+    "options": ["Yes", "No"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 10,
+    "category": "Verbal Logic",
+    "questionText": "Which word is the odd one out: see, hear, taste, touch, think?",
+    "options": ["see", "hear", "taste", "touch", "think"],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 11,
+    "category": "Verbal Logic",
+    "questionText": "'Fear' is to 'Scream' as 'Joy' is to ___.",
+    "options": ["Cry", "Whisper", "Laugh", "Frown"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 12,
+    "category": "Verbal Logic",
+    "questionText": "What is the opposite of 'optimistic'?",
+    "options": ["Joyful", "Realistic", "Pessimistic", "Neutral"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 13,
+    "category": "Verbal Logic",
+    "questionText": "A 'conundrum' is a type of:",
+    "options": ["Fruit", "Problem", "Song", "Weapon"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 14,
+    "category": "Verbal Logic",
+    "questionText": "Which word does not belong: guitar, violin, cello, flute?",
+    "options": ["guitar", "violin", "cello", "flute"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 15,
+    "category": "Verbal Logic",
+    "questionText": "If 'NEPAL' is coded as 'OFOQMB', how is 'INDIA' coded?",
+    "options": ["JOEJB", "JOEJB", "HOEJB", "JOEJC"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 16,
+    "category": "Verbal Logic",
+    "questionText": "Dog is to Kennel as Bird is to ___.",
+    "options": ["Nest", "Fly", "Sky", "Feather"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 17,
+    "category": "Verbal Logic",
+    "questionText": "If yesterday was Sunday, what day is three days from today?",
+    "options": ["Wednesday", "Thursday", "Friday", "Saturday"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 18,
+    "category": "Verbal Logic",
+    "questionText": "Choose the word that is most nearly opposite in meaning to 'frugal'.",
+    "options": ["Extravagant", "Cheap", "Careful", "Rich"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 19,
+    "category": "Verbal Logic",
+    "questionText": "Which word does not belong: happy, ecstatic, glad, angry?",
+    "options": ["happy", "ecstatic", "glad", "angry"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 20,
+    "category": "Verbal Logic",
+    "questionText": "If 'BEAT' is 'ADZS', what is 'MILD'?",
+    "options": ["LHKE", "LHJC", "LKKE", "LKJC"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 21,
+    "category": "Verbal Logic",
+    "questionText": "A 'decade' is 10 years. A 'century' is 100 years. What is a 'millennium'?",
+    "options": ["50 years", "500 years", "1000 years", "10000 years"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 22,
+    "category": "Verbal Logic",
+    "questionText": "Which word is the odd one out: square, circle, triangle, cube?",
+    "options": ["square", "circle", "triangle", "cube"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 23,
+    "category": "Verbal Logic",
+    "questionText": "'Opaque' is the opposite of:",
+    "options": ["Cloudy", "Clear", "Dark", "Bright"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 24,
+    "category": "Verbal Logic",
+    "questionText": "Scientist is to Laboratory as Artist is to ___.",
+    "options": ["Museum", "Paint", "Studio", "Gallery"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 25,
+    "category": "Verbal Logic",
+    "questionText": "If 'Water' is 'Ert' and 'Fire' is 'Eri', what is 'Earth'?",
+    "options": ["Ertf", "Htrae", "Ertah", "Cannot be determined"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 26,
+    "category": "Verbal Logic",
+    "questionText": "Which word does not belong: index, chapter, preface, book?",
+    "options": ["index", "chapter", "preface", "book"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 27,
+    "category": "Verbal Logic",
+    "questionText": "To 'procrastinate' means to:",
+    "options": ["Work quickly", "Delay action", "Be professional", "Argue"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 28,
+    "category": "Verbal Logic",
+    "questionText": "Tree is to Forest as Soldier is to ___.",
+    "options": ["Gun", "War", "Army", "Uniform"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 29,
+    "category": "Verbal Logic",
+    "questionText": "A 'sibling' is a:",
+    "options": ["Parent", "Cousin", "Brother or Sister", "Child"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 30,
+    "category": "Verbal Logic",
+    "questionText": "If 'EAT' = 26, 'BAT' = 23, what is 'CAT'?",
+    "options": ["24", "25", "22", "21"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 31,
+    "category": "Pattern Recognition",
+    "questionText": "What is the next number in the series: 2, 4, 8, 16, ___?",
+    "options": ["24", "32", "64", "20"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 32,
+    "category": "Pattern Recognition",
+    "questionText": "What comes next in the sequence: A, C, E, G, ___?",
+    "options": ["H", "I", "J", "K"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 33,
+    "category": "Pattern Recognition",
+    "questionText": "Look at the pattern: O, T, T, F, F, S, S, E, ___. What comes next?",
+    "options": ["N", "T", "O", "E"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 34,
+    "category": "Pattern Recognition",
+    "questionText": "What is the next number in the series: 1, 1, 2, 3, 5, 8, ___?",
+    "options": ["13", "11", "15", "10"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 35,
+    "category": "Pattern Recognition",
+    "questionText": "What is the next number in the series: 1, 4, 9, 16, 25, ___?",
+    "options": ["36", "49", "30", "42"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 36,
+    "category": "Pattern Recognition",
+    "questionText": "What comes next in the sequence: Z, Y, X, W, V, ___?",
+    "options": ["U", "T", "S", "A"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 37,
+    "category": "Pattern Recognition",
+    "questionText": "What is the next number in the series: 5, 10, 15, 20, ___?",
+    "options": ["25", "30", "35", "40"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 38,
+    "category": "Pattern Recognition",
+    "questionText": "What is the missing number: 3, 9, 27, 81, ___?",
+    "options": ["162", "243", "324", "108"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 39,
+    "category": "Pattern Recognition",
+    "questionText": "What comes next: J, F, M, A, M, J, J, ___?",
+    "options": ["A", "S", "O", "N"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 40,
+    "category": "Pattern Recognition",
+    "questionText": "What is the next number in the series: 100, 90, 80, 70, ___?",
+    "options": ["60", "50", "65", "55"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 41,
+    "category": "Pattern Recognition",
+    "questionText": "What comes next: B, D, F, H, J, ___?",
+    "options": ["K", "L", "M", "N"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 42,
+    "category": "Pattern Recognition",
+    "questionText": "What is the next number in the series: 2, 3, 5, 7, 11, ___?",
+    "options": ["12", "13", "14", "15"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 43,
+    "category": "Pattern Recognition",
+    "questionText": "What is the next item: A1, B2, C3, D4, ___?",
+    "options": ["E5", "F5", "E6", "F6"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 44,
+    "category": "Pattern Recognition",
+    "questionText": "What is the next number in the series: 1, 2, 4, 7, 11, ___?",
+    "options": ["15", "16", "17", "18"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 45,
+    "category": "Pattern Recognition",
+    "questionText": "What comes next: 2, 6, 12, 20, 30, ___?",
+    "options": ["42", "40", "38", "44"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 46,
+    "category": "Pattern Recognition",
+    "questionText": "What is the next number in the series: 9, 16, 25, 36, ___?",
+    "options": ["49", "64", "81", "100"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 47,
+    "category": "Pattern Recognition",
+    "questionText": "What comes next: Z, X, V, T, R, ___?",
+    "options": ["P", "Q", "S", "O"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 48,
+    "category": "Pattern Recognition",
+    "questionText": "What is the missing number: 10, 20, 40, 80, ___?",
+    "options": ["100", "120", "140", "160"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 49,
+    "category": "Pattern Recognition",
+    "questionText": "What is the next number in the series: 1, 5, 13, 29, ___?",
+    "options": ["61", "63", "58", "45"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 50,
+    "category": "Pattern Recognition",
+    "questionText": "What comes next: AZ, BY, CX, DW, ___?",
+    "options": ["EV", "FU", "GT", "HS"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 51,
+    "category": "Pattern Recognition",
+    "questionText": "What is the next number in the series: 1, 10, 100, 1000, ___?",
+    "options": ["10000", "1001", "1111", "10100"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 52,
+    "category": "Pattern Recognition",
+    "questionText": "What is the next number in the series: 4, 6, 9, 13, 18, ___?",
+    "options": ["24", "25", "26", "27"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 53,
+    "category": "Pattern Recognition",
+    "questionText": "What is the next number in the series: 8, 6, 7, 5, 6, 4, ___?",
+    "options": ["2", "3", "5", "8"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 54,
+    "category": "Pattern Recognition",
+    "questionText": "What comes next: 1A, 2B, 3C, 4D, ___?",
+    "options": ["5E", "5F", "6E", "6F"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 55,
+    "category": "Pattern Recognition",
+    "questionText": "What is the next number in the series: 1, 2, 2, 4, 8, 32, ___?",
+    "options": ["256", "128", "64", "40"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 56,
+    "category": "Pattern Recognition",
+    "questionText": "What is the next number in the series: 101, 202, 303, 404, ___?",
+    "options": ["505", "500", "405", "606"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 57,
+    "category": "Pattern Recognition",
+    "questionText": "What comes next: B2, D4, F6, H8, ___?",
+    "options": ["I9", "I10", "J10", "J12"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 58,
+    "category": "Pattern Recognition",
+    "questionText": "What is the next number in the series: 1, 3, 6, 10, 15, ___?",
+    "options": ["21", "20", "22", "19"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 59,
+    "category": "Pattern Recognition",
+    "questionText": "What is the next number in the series: 21, 20, 18, 15, 11, ___?",
+    "options": ["6", "7", "8", "5"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 60,
+    "category": "Pattern Recognition",
+    "questionText": "What comes next: 1, Z, 2, Y, 3, X, 4, ___?",
+    "options": ["W", "V", "C", "5"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 61,
+    "category": "Spatial Reasoning",
+    "questionText": "Imagine a letter 'F'. If you rotate it 90 degrees clockwise, then flip it horizontally, what does it look like?",
+    "options": ["A backwards 'L'", "An upside-down 'T'", "A normal 'F'", "A number '7'"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 62,
+    "category": "Spatial Reasoning",
+    "questionText": "You are facing North. You turn right, turn right again, then turn left. Which direction are you facing?",
+    "options": ["North", "East", "South", "West"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 63,
+    "category": "Spatial Reasoning",
+    "questionText": "How many cubes are in this 3x3x3 stack if the center cube is missing?",
+    "options": ["27", "26", "8", "25"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 64,
+    "category": "Spatial Reasoning",
+    "questionText": "If you fold a perfect square piece of paper in half, and then in half again (to make a smaller square), and then punch a hole in the very center, how many holes will there be when you unfold the paper?",
+    "options": ["1", "2", "4", "8"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 65,
+    "category": "Spatial Reasoning",
+    "questionText": "A cube has how many edges?",
+    "options": ["6", "8", "10", "12"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 66,
+    "category": "Spatial Reasoning",
+    "questionText": "Which of these 2D 'nets' can be folded to form a cube?",
+    "options": ["A cross shape (1x4 blocks with one block attached to the second)", "A straight line of 6 squares", "A 2x3 grid of squares", "A 'T' shape made of 5 squares"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 67,
+    "category": "Spatial Reasoning",
+    "questionText": "Imagine a 3x3x3 cube made of 27 smaller cubes. If you paint the *outside* of the big cube, how many of the smaller cubes will have *no paint* on them at all?",
+    "options": ["1", "8", "9", "27"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 68,
+    "category": "Spatial Reasoning",
+    "questionText": "How many faces does a standard six-sided die have?",
+    "options": ["4", "6", "8", "12"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 69,
+    "category": "Spatial Reasoning",
+    "questionText": "If you are facing East and turn 270 degrees counter-clockwise, what direction are you facing?",
+    "options": ["North", "South", "East", "West"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 70,
+    "category": "Spatial Reasoning",
+    "questionText": "How many vertices (corners) does a cube have?",
+    "options": ["4", "6", "8", "12"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 71,
+    "category": "Spatial Reasoning",
+    "questionText": "Which 3D shape can be made from folding a single circle of paper with one straight cut to the center?",
+    "options": ["Sphere", "Cylinder", "Cone", "Pyramid"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 72,
+    "category": "Spatial Reasoning",
+    "questionText": "You are facing South. You turn 180 degrees. What direction are you facing now?",
+    "options": ["North", "South", "East", "West"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 73,
+    "category": "Spatial Reasoning",
+    "questionText": "How many triangles are in a Star of David (a six-pointed star)?",
+    "options": ["6", "8", "10", "12"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 74,
+    "category": "Spatial Reasoning",
+    "questionText": "If you mirror the word 'LEVEL' horizontally, what does it look like?",
+    "options": ["LEVEL", "LEVAL", "13^37", "73^31"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 75,
+    "category": "Spatial Reasoning",
+    "questionText": "Imagine a 4x4 grid (16 squares). How many *total* squares (of all sizes) are in this grid?",
+    "options": ["16", "20", "25", "30"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 76,
+    "category": "Spatial Reasoning",
+    "questionText": "A standard Rubik's Cube is 3x3x3. How many individual 'cubies' (small cubes) does it have?",
+    "options": ["9", "27", "26", "54"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 77,
+    "category": "Spatial Reasoning",
+    "questionText": "You are in a square room. You walk from one corner to the *opposite* corner. How many walls did you walk *past* (not *along*)?",
+    "options": ["0", "1", "2", "4"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 78,
+    "category": "Spatial Reasoning",
+    "questionText": "Which shape does not belong: Square, Triangle, Circle, Pentagon, Line?",
+    "options": ["Square", "Triangle", "Circle", "Pentagon", "Line"],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 79,
+    "category": "Spatial Reasoning",
+    "questionText": "How many corners (vertices) does a pyramid with a square base have?",
+    "options": ["4", "5", "6", "8"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 80,
+    "category": "Spatial Reasoning",
+    "questionText": "If you mirror the number '101' vertically, what does it look like?",
+    "options": ["101", "010", "10-", "Cannot be done"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 81,
+    "category": "Spatial Reasoning",
+    "questionText": "How many 90-degree turns does it take to face the direction you started in?",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 82,
+    "category": "Spatial Reasoning",
+    "questionText": "If you cut a square pizza with 3 straight cuts, what is the *maximum* number of pieces you can get?",
+    "options": ["4", "6", "7", "8"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 83,
+    "category": "Spatial Reasoning",
+    "questionText": "Which of these is NOT a 3D shape?",
+    "options": ["Sphere", "Pyramid", "Ellipse", "Torus"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 84,
+    "category": "Spatial Reasoning",
+    "questionText": "Imagine the number '3'. What is its mirror image?",
+    "options": ["E", "8", "Backwards 3", "Upside down 3"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 85,
+    "category": "Spatial Reasoning",
+    "questionText": "A cube is unfolded. How many squares does its 'net' consist of?",
+    "options": ["4", "5", "6", "8"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 86,
+    "category": "Spatial Reasoning",
+    "questionText": "If you look at a cube from one corner, what is the *maximum* number of faces you can see at once?",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 87,
+    "category": "Spatial Reasoning",
+    "questionText": "Which 2D shape, when rotated in 3D, creates a sphere?",
+    "options": ["Circle", "Square", "Triangle", "Line"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 88,
+    "category": "Spatial Reasoning",
+    "questionText": "A house has a roof with 4 sides. What is this 3D shape called?",
+    "options": ["Pyramid", "Cone", "Cube", "Prism"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 89,
+    "category": "Spatial Reasoning",
+    "questionText": "How many sides does a hexagon have?",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 90,
+    "category": "Spatial Reasoning",
+    "questionText": "If you write 'SOS' and look at it in a mirror, what does it look like?",
+    "options": ["SOS", "2O2", "ZOS", "SOZ"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 91,
+    "category": "Memory",
+    "questionText": "Memorize this list: Apple, Chair, Blue, 5. Which item was on the list?",
+    "options": ["Table", "Red", "Chair", "9"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 92,
+    "category": "Memory",
+    "questionText": "Remember the sequence: Red, Green, Blue, Yellow. What is the third color?",
+    "options": ["Red", "Green", "Blue", "Yellow"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 93,
+    "category": "Memory",
+    "questionText": "Memorize the number: 867-5309. What is the fourth digit?",
+    "options": ["7", "5", "3", "0"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 94,
+    "category": "Memory",
+    "questionText": "Memorize: Dog, 15, Green. Which number was mentioned?",
+    "options": ["10", "5", "15", "20"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 95,
+    "category": "Memory",
+    "questionText": "Remember: Sun, Moon, Star. Which of these was NOT in the list?",
+    "options": ["Sun", "Moon", "Star", "Planet"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 96,
+    "category": "Memory",
+    "questionText": "Memorize: 1, 2, 3, 4, 5. What is the sum of the first and last number?",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 97,
+    "category": "Memory",
+    "questionText": "Remember: A, B, C. What is the second letter?",
+    "options": ["A", "B", "C", "D"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 98,
+    "category": "Memory",
+    "questionText": "Memorize the list: Happy, Sad, Angry. Which emotion was listed first?",
+    "options": ["Happy", "Sad", "Angry", "Excited"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 99,
+    "category": "Memory",
+    "questionText": "Remember: North, South, East, West. How many directions were listed?",
+    "options": ["2", "3", "4", "5"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 100,
+    "category": "Memory",
+    "questionText": "Memorize the code: X-25-B. What was the letter in the code?",
+    "options": ["A", "X", "B", "Both X and B"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 101,
+    "category": "Memory",
+    "questionText": "Remember: 9, 5, 2. What is the smallest number?",
+    "options": ["9", "5", "2", "Cannot remember"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 102,
+    "category": "Memory",
+    "questionText": "Memorize: Cat, 8, Blue. What was the color?",
+    "options": ["Red", "8", "Cat", "Blue"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 103,
+    "category": "Memory",
+    "questionText": "Remember the sequence: 10, 20, 30. What is the next number in the sequence?",
+    "options": ["40", "35", "50", "This is a memory test, not a pattern test"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 104,
+    "category": "Memory",
+    "questionText": "Remember: Desk, Lamp, Book. Which item was on the list?",
+    "options": ["Chair", "Lamp", "Pen", "Computer"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 105,
+    "category": "Memory",
+    "questionText": "Memorize the phrase: 'To be or not to be'. What is the third word?",
+    "options": ["be", "or", "not", "to"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 106,
+    "category": "Memory",
+    "questionText": "Remember: 742. What is the sum of the digits?",
+    "options": ["10", "12", "13", "14"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 107,
+    "category": "Memory",
+    "questionText": "Remember: Circle, Square, Triangle. Which shape was listed last?",
+    "options": ["Circle", "Square", "Triangle", "Diamond"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 108,
+    "category": "Memory",
+    "questionText": "Memorize: 'The quick brown fox'. What was the color?",
+    "options": ["Red", "Quick", "Brown", "Fox"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 109,
+    "category": "Memory",
+    "questionText": "Remember: 5, 10, 15. What was the middle number?",
+    "options": ["5", "10", "15", "20"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 110,
+    "category": "Memory",
+    "questionText": "Memorize: 'Mary had a little lamb'. What animal was mentioned?",
+    "options": ["Goat", "Sheep", "Lamb", "Mary"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 111,
+    "category": "Memory",
+    "questionText": "Remember: 'alpha, beta, gamma'. What was the first item?",
+    "options": ["alpha", "beta", "gamma", "delta"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 112,
+    "category": "Memory",
+    "questionText": "Memorize: 123. What is the last digit?",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 113,
+    "category": "Memory",
+    "questionText": "Remember: 'Red light, green light'. What color was NOT mentioned?",
+    "options": ["Red", "Green", "Blue", "All were mentioned"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 114,
+    "category": "Memory",
+    "questionText": "Memorize: 'Car, Bus, Train'. Which vehicle was listed second?",
+    "options": ["Car", "Bus", "Train", "Plane"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 115,
+    "category": "Memory",
+    "questionText": "Remember: 4, 8, 12. What is the sum of all three numbers?",
+    "options": ["20", "22", "24", "26"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 116,
+    "category": "Memory",
+    "questionText": "Memorize: 'Breakfast, Lunch, Dinner'. Which meal was on the list?",
+    "options": ["Snack", "Brunch", "Supper", "Lunch"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 117,
+    "category": "Memory",
+    "questionText": "Remember: 'Sun, 7, Hot'. What was the number?",
+    "options": ["Sun", "Hot", "7", "8"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 118,
+    "category": "Memory",
+    "questionText": "Remember: 'A, Z, B, Y'. What was the third letter?",
+    "options": ["A", "Z", "B", "Y"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 119,
+    "category": "Memory",
+    "questionText": "Memorize: 'Apple, Orange'. Which was listed first?",
+    "options": ["Apple", "Orange", "Banana", "Neither"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 120,
+    "category": "Memory",
+    "questionText": "Remember: '100'. What was the number?",
+    "options": ["10", "100", "1000", "0"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 121,
+    "category": "Numerical Reasoning",
+    "questionText": "A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost?",
+    "options": ["$0.10", "$0.05", "$1.00", "$0.15"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 122,
+    "category": "Numerical Reasoning",
+    "questionText": "If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?",
+    "options": ["100 minutes", "50 minutes", "5 minutes", "1 minute"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 123,
+    "category": "Numerical Reasoning",
+    "questionText": "A farmer has 17 sheep. All but 9 die. How many are left?",
+    "options": ["8", "17", "9", "26"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 124,
+    "category": "Numerical Reasoning",
+    "questionText": "What is 20% of 200?",
+    "options": ["20", "40", "60", "80"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 125,
+    "category": "Numerical Reasoning",
+    "questionText": "If a train travels at 60 mph, how far will it travel in 30 minutes?",
+    "options": ["30 miles", "60 miles", "15 miles", "120 miles"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 126,
+    "category": "Numerical Reasoning",
+    "questionText": "What is 5 + 5 * 5?",
+    "options": ["50", "30", "25", "15"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 127,
+    "category": "Numerical Reasoning",
+    "questionText": "A shop sells apples for $0.50. You buy 4. How much do you pay?",
+    "options": ["$1.00", "$1.50", "$2.00", "$2.50"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 128,
+    "category": "Numerical Reasoning",
+    "questionText": "If x = 3 and y = 4, what is x + y?",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 129,
+    "category": "Numerical Reasoning",
+    "questionText": "What is 1/2 as a decimal?",
+    "options": ["0.25", "0.5", "0.75", "1.0"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 130,
+    "category": "Numerical Reasoning",
+    "questionText": "If you have 10 apples and give away 3, how many do you have left?",
+    "options": ["7", "8", "9", "10"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 131,
+    "category": "Numerical Reasoning",
+    "questionText": "What is the average of 10, 20, and 30?",
+    "options": ["15", "20", "25", "60"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 132,
+    "category": "Numerical Reasoning",
+    "questionText": "Which number is largest: 0.5, 0.05, 0.55, 0.055?",
+    "options": ["0.5", "0.05", "0.55", "0.055"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 133,
+    "category": "Numerical Reasoning",
+    "questionText": "How many months have 30 days (assuming a non-leap year)?",
+    "options": ["1", "4", "5", "6"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 134,
+    "category": "Numerical Reasoning",
+    "questionText": "If a shirt is 25% off its $40 price, what is the new price?",
+    "options": ["$10", "$25", "$30", "$35"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 135,
+    "category": "Numerical Reasoning",
+    "questionText": "What is 100 - 50 + 10?",
+    "options": ["40", "60", "50", "160"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 136,
+    "category": "Numerical Reasoning",
+    "questionText": "How many eggs in a dozen?",
+    "options": ["6", "10", "12", "24"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 137,
+    "category": "Numerical Reasoning",
+    "questionText": "If 2x = 10, what is x?",
+    "options": ["2", "5", "8", "10"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 138,
+    "category": "Numerical Reasoning",
+    "questionText": "What is 7 * 8?",
+    "options": ["49", "54", "56", "63"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 139,
+    "category": "Numerical Reasoning",
+    "questionText": "You have 5 pairs of socks. How many individual socks do you have?",
+    "options": ["5", "10", "15", "2"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 140,
+    "category": "Numerical Reasoning",
+    "questionText": "What is 99 + 1?",
+    "options": ["100", "101", "99", "110"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 141,
+    "category": "Numerical Reasoning",
+    "questionText": "If 5 pencils cost $1, how many can you buy for $5?",
+    "options": ["5", "10", "20", "25"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 142,
+    "category": "Numerical Reasoning",
+    "questionText": "What is 10 * (5 - 2)?",
+    "options": ["50", "20", "30", "48"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 143,
+    "category": "Numerical Reasoning",
+    "questionText": "If today is Monday, what day was it yesterday?",
+    "options": ["Tuesday", "Sunday", "Wednesday", "Saturday"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 144,
+    "category": "Numerical Reasoning",
+    "questionText": "What is the next even number after 8?",
+    "options": ["9", "10", "11", "12"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 145,
+    "category": "Numerical Reasoning",
+    "questionText": "A movie starts at 2:00 PM and is 90 minutes long. When does it end?",
+    "options": ["3:00 PM", "3:30 PM", "4:00 PM", "2:90 PM"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 146,
+    "category": "Numerical Reasoning",
+    "questionText": "What is 100 / 4?",
+    "options": ["20", "25", "30", "50"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 147,
+    "category": "Numerical Reasoning",
+    "questionText": "If a square has a side length of 5, what is its area?",
+    "options": ["10", "15", "20", "25"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 148,
+    "category": "Numerical Reasoning",
+    "questionText": "How many degrees in a right angle?",
+    "options": ["45", "90", "180", "360"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 149,
+    "category": "Numerical Reasoning",
+    "questionText": "What is 1 - 0.5?",
+    "options": ["0.5", "0.25", "0", "1.5"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 150,
+    "category": "Numerical Reasoning",
+    "questionText": "If a dozen eggs cost $3, how much does one egg cost?",
+    "options": ["$0.10", "$0.20", "$0.25", "$0.30"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 151,
+    "category": "Attention to Detail",
+    "questionText": "Read the following sentence carefully and count how many times the letter 'e' appears: \"Elephants are extremely elegant creatures.\"",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 152,
+    "category": "Attention to Detail",
+    "questionText": "Which word in this list is spelled incorrectly?",
+    "options": ["Accommodate", "Receive", "Separate", "Definately"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 153,
+    "category": "Attention to Detail",
+    "questionText": "Follow the instructions: Click the third option.",
+    "options": ["First", "Second", "Third", "Fourth"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 154,
+    "category": "Attention to Detail",
+    "questionText": "What is the *second* vowel in the word 'QUESTIONNAIRE'?",
+    "options": ["U", "E", "I", "O"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 155,
+    "category": "Attention to Detail",
+    "questionText": "Which word is different: pear, apple, pear, pear?",
+    "options": ["pear", "apple", "pear", "pear"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 156,
+    "category": "Attention to Detail",
+    "questionText": "How many times does the number '1' appear in this list: 1, 11, 21, 12, 111?",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 157,
+    "category": "Attention to Detail",
+    "questionText": "Which word is spelled correctly?",
+    "options": ["Neccessary", "Necessary", "Necesary", "Neccesary"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 158,
+    "category": "Attention to Detail",
+    "questionText": "Follow the instructions: Do not click this option. Do not click this option. Click this option. Do not click this option.",
+    "options": ["Do not click", "Do not click", "Click this", "Do not click"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 159,
+    "category": "Attention to Detail",
+    "questionText": "What is the 4th word in this sentence?",
+    "options": ["What", "is", "the", "4th"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 160,
+    "category": "Attention to Detail",
+    "questionText": "Which of these words is NOT a color: Red, Blue, Green, Loud?",
+    "options": ["Red", "Blue", "Green", "Loud"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 161,
+    "category": "Attention to Detail",
+    "questionText": "Find the typo: Accommodate, Persistance, Millennium, Occurrence",
+    "options": ["Accommodate", "Persistance", "Millennium", "Occurrence"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 162,
+    "category": "Attention to Detail",
+    "questionText": "Count the 'F's in this sentence: 'Finished files are the result of years of scientific study combined with the experience of years.'",
+    "options": ["3", "4", "5", "6"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 163,
+    "category": "Attention to Detail",
+    "questionText": "If you are told to pick the second option, which do you pick?",
+    "options": ["A", "B", "C", "D"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 164,
+    "category": "Attention to Detail",
+    "questionText": "Which word is the same when spelled backwards: 'LEVEL', 'TEST', 'CODE', 'APP'?",
+    "options": ["LEVEL", "TEST", "CODE", "APP"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 165,
+    "category": "Attention to Detail",
+    "questionText": "What is the capital letter in 'soumyajit'?",
+    "options": ["s", "o", "j", "There is no capital letter"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 166,
+    "category": "Attention to Detail",
+    "questionText": "Which item is repeated: 'Book, Pen, Paper, Pen, Key'?",
+    "options": ["Book", "Pen", "Paper", "Key"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 167,
+    "category": "Attention to Detail",
+    "questionText": "Which word is spelled correctly?",
+    "options": ["Weird", "Wierd", "Wreed", "Wiered"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 168,
+    "category": "Attention to Detail",
+    "questionText": "Click the last option.",
+    "options": ["First", "Second", "Third", "Last"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 169,
+    "category": "Attention to Detail",
+    "questionText": "How many 'o's are in 'Cognitive Profiler'?",
+    "options": ["2", "3", "4", "5"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 170,
+    "category": "Attention to Detail",
+    "questionText": "Find the typo: 'The quick brown fox jumpd over the lazy dog.'",
+    "options": ["quick", "jumpd", "lazy", "No typo"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 171,
+    "category": "Attention to Detail",
+    "questionText": "Which word is different: TEST, TEST, TEST, TE5T?",
+    "options": ["TEST", "TEST", "TEST", "TE5T"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 172,
+    "category": "Attention to Detail",
+    "questionText": "Which word is spelled correctly?",
+    "options": ["Calendar", "Calender", "Calandar", "Calander"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 173,
+    "category": "Attention to Detail",
+    "questionText": "What is the *last* word of this question?",
+    "options": ["last", "word", "this", "question"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 174,
+    "category": "Attention to Detail",
+    "questionText": "How many words are in this option: 'This one, right here.'?",
+    "options": ["3", "4", "5", "6"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 175,
+    "category": "Attention to Detail",
+    "questionText": "Which of these is NOT a direction: North, South, East, Up?",
+    "options": ["North", "South", "East", "Up"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 176,
+    "category": "Attention to Detail",
+    "questionText": "Which word is spelled incorrectly: 'Thier', 'Their', 'They're'?",
+    "options": ["Thier", "Their", "They're", "All are correct"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 177,
+    "category": "Attention to Detail",
+    "questionText": "Click the option that is blue. 'Red', 'Green', 'Blue', 'Yellow'",
+    "options": ["Red", "Green", "Blue", "Yellow"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 178,
+    "category": "Attention to Detail",
+    "questionText": "How many 'p's are in 'apple pie'?",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 179,
+    "category": "Attention to Detail",
+    "questionText": "Which word is different: 'listen', 'silent', 'enlist'?",
+    "options": ["listen", "silent", "enlist", "They all use the same letters"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 180,
+    "category": "Attention to Detail",
+    "questionText": "Click the first option.",
+    "options": ["First", "Second", "Third", "Fourth"],
+    "correctAnswerIndex": 0
+  }
+]

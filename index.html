@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF--8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cognitive Skills Profiler</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              'background': '#000000',    // Black
+              'surface': '#1e293b',       // Slate 800
+              'primary': '#22d3ee',       // Cyan 400
+              'primary-hover': '#67e8f9', // Cyan 300
+              'secondary': '#a3e636',     // Lime 400
+              'secondary-hover': '#bef264',// Lime 300
+              'accent': '#facc15',        // Yellow 400
+              'text-primary': '#e2e8f0',    // Slate 200
+              'text-secondary': '#94a3b8', // Slate 400
+              'border': '#334155',       // Slate 700
+            },
+            fontFamily: {
+              sans: ['Inter', 'sans-serif'],
+            },
+            animation: {
+              'blob-spin': 'blob-spin 10s cubic-bezier(0.77, 0, 0.175, 1) infinite',
+            },
+            keyframes: {
+              'blob-spin': {
+                '0%': { transform: 'translate(0px, 0px) scale(1)' },
+                '33%': { transform: 'translate(40px, -60px) scale(1.1)' },
+                '66%': { transform: 'translate(-30px, 30px) scale(0.9)' },
+                '100%': { transform: 'translate(0px, 0px) scale(1)' },
+              },
+            },
+          },
+        },
+      }
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <script type="importmap">
+{
+  "imports": {
+    "@google/genai": "https://aistudiocdn.com/@google/genai@^1.29.0",
+    "react/": "https://aistudiocdn.com/react@^19.2.0/",
+    "react": "https://aistudiocdn.com/react@^19.2.0",
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.2.0/"
+  }
+}
+</script>
+<link rel="stylesheet" href="/index.css">
+</head>
+  <body class="bg-background font-sans text-text-primary">
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+  </body>
+</html>

@@ -1,0 +1,5 @@
+{
+  "name": "Cognitive Skills Coach",
+  "description": "An AI-powered coach that analyzes your cognitive quiz performance. Paste your JSON results to receive an insightful analysis of your strengths and areas for growth.",
+  "requestFramePermissions": []
+}

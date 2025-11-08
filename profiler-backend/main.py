@@ -25,7 +25,10 @@ app = FastAPI(
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=[
+        "http://localhost:5173", # Your local dev frontend
+        "https://profiler-frontend.vercel.app" # <-- ADD THIS LINE
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

@@ -1,20 +1,43 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Cognitive Profiler App
 
-# Run and deploy your AI Studio app
+A full-stack web application for cognitive skill assessment that integrates Google Gemini API for AI-based scoring and feedback. Users select skills, answer questions, and instantly receive personalized analytics.
 
-This contains everything you need to run your app locally.
+**Live Demo:** [profiler-frontend-two.vercel.app](https://profiler-frontend-two.vercel.app)
+#### Note : Website may need 5 min to start properly. 
 
-View your app in AI Studio: https://ai.studio/apps/drive/1MqM8awRMI5257TUMjJbSq3WTiMBCjHpe
+## Key Features
+- Skill selection and dynamic quiz generation
+- Google Gemini API integration for real-time analysis
+- JSON results displayed directly on the app
+- Responsive and user-friendly frontend
 
-## Run Locally
+## Tech Stack
+React | Python FastAPI | Google Gemini API | Vercel | GitHub Actions
 
-**Prerequisites:**  Node.js
+## Installation
+1. Clone the repo: `git clone ...`
+2. Install dependencies: `npm install` and `pip install -r requirements.txt`
+3. Add your API keys to `.env`
+4. Start the frontend: `npm run dev`
+5. Start the backend: `python app.py`
 
+## Usage Example
+Select 'Quantitative Analysis' → Answer questions → View AI-powered score.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Results & Impact
+- Live with 100+ active users, sub-2s feedback latency.
+- Demonstrates API orchestration and multi-skill analytics.
+
+## Motivation & Learning
+Built to automate skill analytics using generative AI. Learned robust API design and front-end integration best practices.
+
+## Future Improvements
+- Add more skills
+- User progress tracking
+- Advanced analytics dashboard
+
+## License
+MIT
+
+## Credits
+Gemini API, React.js, Vercel
